@@ -43,3 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+body {
+  background-image: linear-gradient(to top left, rgb(205, 243, 205), white);
+  background-attachment: fixed;
+}
