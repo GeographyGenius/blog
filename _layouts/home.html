@@ -8,10 +8,12 @@ layout: default
   {%- endif -%}
 
   {{ content }}
+  <br>
   <a href="/"><img src="/images/logos/logo-horizontal-new-v3.png" alt="Back to Geography Genius"></a>
+  <br>
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest News & Posts" }}</h2>
     <ul class="post-list">
       {%- assign post_limit = site.home_post_limit | default: 5 -%}
       {%- for post in site.posts limit:post_limit -%}
