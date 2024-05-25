@@ -7,6 +7,8 @@ Example:
 
 This allows for limitless possibilites with quiz creation, as now if, for example, you don't want to study all of Africa, you can customize it and choose just the questions you want.  
 
+<!---
 _Note: This feature is a work in progress, as the title and description do not show up yet on the quiz page, and capitals show up as countries on the customizing quiz page. This will be updated soon._
+--->
 
 Try it out below by [picking a quiz](/geography/), and customizing it!
