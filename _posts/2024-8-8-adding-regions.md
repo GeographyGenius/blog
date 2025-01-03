@@ -8,4 +8,6 @@ For example, in Africa it is split into five regions.
 - Central
 
 This will be applied to Africa, Europe, and Asia (once I make it!)\
+_Update: Europe and Asia now have regions._\
+\
 Of course, if you want to learn the entire continent at once, you still can! But this should make it easier.
